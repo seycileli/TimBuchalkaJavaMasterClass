@@ -49,7 +49,9 @@ public class dayOfTheWeek {
     public static int printDayOfTheWeekIfElse(int day) {
 
         //using if-else statement
-        //could have been public static void, but I wanted to use the primitive datatype in method signature
+        //could have been public static void, but I wanted to use the int primitive datatype in method signature
+
+        //I know day starts with Sunday, I felt like starting with Monday here.
 
         if (day == 1) {
             System.out.println("Monday");

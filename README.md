@@ -1,7 +1,5 @@
 # TimBuchalkaJavaMasterClass
 
-Java Programming MasterClass Instructed by Tim Buchalka
+Java Programming MasterClass Instructed by Tim Buchalka on uDemy
 
-Coding exercise solutions for Tim Buchalka Java Programming MasterClass uDemy course 
-
-The solutions to the courses exercises can be found here.
+The Algorithmic solutions for the Java Programming MasterClass courses can be found here.

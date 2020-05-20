@@ -30,10 +30,11 @@ public class LargestPrime {
 
                         if ((i % j) == 0) {
                             count = 1;
-                            System.out.println(i + " / " + j + " = ");
+                            System.out.println("i (" + i + ") / j (" + j + ") = " + largestPrime
+                            + " Largest Prime" + "\n");
                             System.out.println("Largest Prime (" + largestPrime +
                                     ") x j (" + j + ") will equal = " +
-                                    (largestPrime * j) + ". Which is what the user input");
+                                    (largestPrime * j) + ". Which is what the user input" + "\n");
                             break;
                         }
                     }

@@ -44,6 +44,13 @@ public class Point {
     /*
     Method named distance with parameter another of type Point,
     it needs to return the distance between this Point and another Point as double
+
+    How to find the distance between two points?
+    To find a distance between points A(xA,yA) and B(xB,yB), we use the formula:
+
+    d(A,B)=√ (xB − xA) * (xB - xA) + (yB − yA) * (yB - yA)
+
+    Where √ represents square root.
      */
     public double distance(Point point) {
         return Math.sqrt(

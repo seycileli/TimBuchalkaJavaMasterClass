@@ -1,4 +1,4 @@
-package carpetCompany;
+package entities;
 
 public class Carpet {
 

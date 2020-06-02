@@ -1,4 +1,4 @@
-package animals;
+package main;
 
 public class Main {
 

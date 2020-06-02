@@ -1,4 +1,4 @@
-package animals;
+package entities;
 
 public class Fish extends Animal {
 

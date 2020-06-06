@@ -2,7 +2,7 @@
     Able to store, modify (edit), remove, and query (search) for contacts (by name)
 
     You will want to create a separate class called Contacts,
-    Create instance variables of Contacts, Phone Number
+    Create fields (instance variables) of Name, Phone Number of String data type
 
     Create a Master Class called MobilePhone that holds an ArrayList of Contacts
     The Mobile Phones functionalities are listed below:

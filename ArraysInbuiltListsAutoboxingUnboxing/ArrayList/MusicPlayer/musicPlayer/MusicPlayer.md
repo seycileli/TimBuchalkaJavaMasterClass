@@ -1,4 +1,3 @@
-        /*
 	     Create a program that implements a playlist for songs
          Create a Song class having Title and Duration for a song.
          The program will have an Album class containing a list of songs.
@@ -14,4 +13,3 @@
          started tracking the direction we were going.
          As an optional extra, provide an option to remove the current song from the playlist
          (hint: listiterator.remove()
-         */

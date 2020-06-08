@@ -1,4 +1,4 @@
-	      // Create a program that implements a playlist for songs
+	  // Create a program that implements a playlist for songs
         // Create a Song class having Title and Duration for a song.
         // The program will have an Album class containing a list of songs.
         // The albums will be stored in an ArrayList

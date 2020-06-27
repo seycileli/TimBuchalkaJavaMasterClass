@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package entities;
 
-/**
- * Created by dev on 5/02/2016.
- */
 public class Planet extends HeavenlyBody {
 
     public Planet(String name, double orbitalPeriod) {

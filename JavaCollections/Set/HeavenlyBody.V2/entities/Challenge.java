@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package entities;
 
-/**
- * Created by dev on 17/01/2016.
- */
 public class Challenge {
     /**
      * When overriding the equals() method in the HeavenlyBody class, we

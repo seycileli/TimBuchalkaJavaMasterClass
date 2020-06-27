@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package entities;
 
-/**
- * Created by dev on 5/02/2016.
- */
 public class DwarfPlanet extends HeavenlyBody {
 
     public DwarfPlanet(String name, double orbitalPeriod) {

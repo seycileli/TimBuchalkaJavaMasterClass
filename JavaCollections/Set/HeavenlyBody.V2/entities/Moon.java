@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package entities;
 
-/**
- * Created by dev on 5/02/2016.
- */
 public class Moon extends HeavenlyBody {
 
     public Moon(String name, double orbitalPeriod) {

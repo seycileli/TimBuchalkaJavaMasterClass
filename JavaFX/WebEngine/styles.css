@@ -1,0 +1,14 @@
+/* Will not work if you don't use a period (.)
+   before the name of the syntax */
+
+.button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+/* use HashCode to pick the ID tag
+   that you'd want to stylize */
+#button_three {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
